@@ -85,7 +85,7 @@
     height: 250px;
     /* background-color: aqua; */
     margin: 30px;
-
+    text-shadow: 0px 0px 2px black;
 }
 .FRIENDLY{
     color: aliceblue;
