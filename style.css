@@ -583,7 +583,7 @@ font-size: 50px;
     display: block;
 }
 .sec-10{
-    height: 500px;
+    min-height: 500px;
     /* background-color: bisque; */
     margin-top: 50px;
 
@@ -892,7 +892,7 @@ p.paragraph9-coverage{
     height: auto;
 }
 .sec-15{
-    height: 200px;
+    min-height: 200px;
     background-color: black;
     margin-top: 50px;
 }
